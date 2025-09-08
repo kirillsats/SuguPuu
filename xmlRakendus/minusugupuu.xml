@@ -39,6 +39,16 @@
 				<inimene saasta="1986" elukoht="Kherson">
 					<nimi>Daniel</nimi>
 					<perekonnanimi>Pirizhkov</perekonnanimi>
+					<lapsed>
+						<inimene saasta="2008" elukoht="Melitopol">
+							<nimi>Vadim</nimi>
+							<perekonnanimi>Pirizhkov</perekonnanimi>
+						</inimene>
+						<inimene saasta="2012" elukoht="Melitopol">
+							<nimi>Kirill</nimi>
+							<perekonnanimi>Pirizhkov</perekonnanimi>
+						</inimene>
+					</lapsed>
 				</inimene>
 			</lapsed>
 		</inimene>
@@ -49,14 +59,44 @@
 				<inimene saasta="1978" elukoht="Kherson">
 					<nimi>Larisa</nimi>
 					<perekonnanimi>Kashchenko</perekonnanimi>
+					<lapsed>
+						<inimene saasta="1998" elukoht="Belogorsk">
+							<nimi>Vika</nimi>
+							<perekonnanimi>Kashchenko</perekonnanimi>
+						</inimene>
+						<inimene saasta="2000" elukoht="Belogorsk">
+							<nimi>Vitalik</nimi>
+							<perekonnanimi>Kashchenko</perekonnanimi>
+						</inimene>
+					</lapsed>
 				</inimene>
 				<inimene saasta="1980" elukoht="Kherson">
 					<nimi>Lyudmila</nimi>
 					<perekonnanimi>Kashchenko</perekonnanimi>
+					<lapsed>
+						<inimene saasta="2003" elukoht="Kherson">
+							<nimi>Rostik</nimi>
+							<perekonnanimi>Kashchenko</perekonnanimi>
+						</inimene>
+						<inimene saasta="2006" elukoht="Kherson">
+							<nimi>Yarik</nimi>
+							<perekonnanimi>Kashchenko</perekonnanimi>
+						</inimene>
+						<inimene saasta="2018" elukoht="Kherson">
+							<nimi>Makar</nimi>
+							<perekonnanimi>Kashchenko</perekonnanimi>
+						</inimene>
+					</lapsed>
 				</inimene>
 				<inimene saasta="1984" elukoht="Kherson">
 					<nimi>Kristina</nimi>
 					<perekonnanimi>Kashchenko</perekonnanimi>
+					<lapsed>
+						<inimene saasta="2004" elukoht="Kherson">
+							<nimi>Vanya</nimi>
+							<perekonnanimi>Kashchenko</perekonnanimi>
+						</inimene>
+					</lapsed>
 				</inimene>
 				<inimene saasta="1992" elukoht="Kherson">
 					<nimi>Roman</nimi>

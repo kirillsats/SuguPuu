@@ -123,7 +123,9 @@
     <Content Include="Elizaveta2sugupuu.xml" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
-    <Content Include="minuparing.xslt" />
+    <Content Include="minuparing.xslt">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="minusugupuu.xml" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
