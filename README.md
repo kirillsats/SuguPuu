@@ -1,4 +1,4 @@
-###Minu ülesanne
+# Minu ülesanne
 1. Välja tuua konkreetse isiku laste nimede nimekiri.
 2. Tee tabel, kus on näidatud vanaemad ja nende lapselapsed.
 
