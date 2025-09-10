@@ -17,7 +17,7 @@
 				<tr>
 					<th>Nimi</th>
 					<th>Perekonnanimi</th>
-					<th>Saasta</th>
+					<th>SünniAasta</th>
 					<th>Vanus</th>
 					<th>Elukoht</th>
 					<th>Laste arv</th>
