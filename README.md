@@ -1,5 +1,5 @@
 # Minu ülesanne
-1. Välja tuua konkreetse isiku laste nimede nimekiri.
+1. Tõsta punasega esile nimi, mis sisaldab tähte "D"
 2. Tee tabel, kus on näidatud vanaemad ja nende lapselapsed.
 
 <img width="1142" height="820" alt="image" src="https://github.com/user-attachments/assets/a7a61b1a-38dd-4314-9429-2fd352d7ab73" />
