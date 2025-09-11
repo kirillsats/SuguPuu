@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <!-- Семейное древо -->
 <sugupuu>
 	<inimene saasta="1944" elukoht="Paldiski">
 		<nimi>Tamara</nimi>
 		<perekonnanimi>Zelenina</perekonnanimi>
+		
 		<lapsed>
 			<inimene saasta="1966" elukoht="Tallinn">
 				<nimi>Elena</nimi>
