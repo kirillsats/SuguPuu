@@ -1,9 +1,10 @@
 # Minu ülesanne
-1. Tõsta punasega esile nimi, mis sisaldab tähte "D"
+1. Tõsta punasega esile nimi, mis sisaldab tähte "A"
 2. Tee tabel, kus on näidatud vanaemad ja nende lapselapsed.
 
-<img width="1142" height="820" alt="image" src="https://github.com/user-attachments/assets/a7a61b1a-38dd-4314-9429-2fd352d7ab73" />
+<img width="791" height="674" alt="{559F2180-F9AC-4A93-8FF9-0FC31AAC9649}" src="https://github.com/user-attachments/assets/222c1930-0453-4ce6-b923-b0b844f413ec" />
 
 
-<img width="790" height="612" alt="image" src="https://github.com/user-attachments/assets/a4cb51d7-d0cc-4c37-a13f-28ab8ecd23dd" />
+<img width="548" height="385" alt="{FE37D66A-A98E-45D6-96AA-F878C4198694}" src="https://github.com/user-attachments/assets/da02ede6-e9bd-44d2-8551-baddab8048a9" />
+
 
